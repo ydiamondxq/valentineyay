@@ -5,7 +5,7 @@ const yes8tn = document.querySelector('.yes-btn');
 const no8tn = document.querySelector('.no-btn');
 
 yes8tn.addEventListener("click", () => {
-    question.innerHTML = "yeeey!!!! 🎉";
+    question.innerHTML = "Ура^^ 🎉";
     gif.src =
       "https://media2.giphy.com/media/iCVzZwwE6QNAV2tEE0/giphy.gif" 
 
